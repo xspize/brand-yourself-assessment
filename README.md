@@ -4,7 +4,7 @@ A brand needs to have its own identity, be recognizable just from a glance. To u
 
 ## First step - Research
 
-When it comes to researching for ideas to create a logo, there is a whole lot of countless brands to take inspiration from. What I'm aiming for is to assimilate a name to an image/shape that is memorable to the user. Some companies already perfectly do these. Lets take **Twitter** as an example, **Twitter** is often associated with a bird, why? because of its very recognizable logo. If one day they decided to change it, users would get very confused since the bird is the company identity.
+When it comes to researching for ideas to create a logo, there is a whole lot of countless brands to take inspiration from. What I am aiming for is to assimilate a name to an image/shape that is memorable to the user. Some companies already perfectly do these. Lets take **Twitter** as an example, **Twitter** is often associated with a bird, why? because of its very recognizable logo. If one day they decided to change it, users would get very confused since the bird is the company identity.
 
 <p align="center">
   <img width="595" height="373" src="https://github.com/xspize/xspize/blob/main/pictures/twitter_evolution.png?raw=true">

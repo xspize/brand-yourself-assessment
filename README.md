@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Studying Digital Design & Web Development
 
 <!--
 **xspize/xspize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

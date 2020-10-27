@@ -18,6 +18,6 @@ As seen above __Twitter__ changed its identity throughout the years, it first ad
 
 I'm not trying to imply that the logo made the website traffic increase, it was also the way the company advertised its functionalities through the years. I used __twitter__ as an example because it follows the concepts I stated earlier. 
 
-A lot of brainstorming was necessary to find the perfect name for a Digital Design company. That was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__ , honestly, as a designer, we always wander through our thoughts to expand our ideas to satisfy our customers, the word itself is very memorable and usually associated with going on adventures, which can possibly also be one of the slogans for the company. Having the name chosen that will then lead to the second step.
+A lot of brainstorming was necessary to find a fitting name for a Digital Design company. That was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__ , honestly, as a designer, we always wander through our thoughts to expand our ideas to satisfy our customers, the word itself is very memorable and usually associated with going on adventures, which can possibly also be one of the slogans for the company. Having the name chosen that will then lead to the second step.
 
 ## Second Step -  Typography

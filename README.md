@@ -18,11 +18,20 @@ Since the name of the company will be Odyssey I wanted the logo to have somethin
 
 I used Adobe XD to transform those sketches into real designs to also gather some feedback from other people to reach a final conclusion on which one I should use.
 
+## Typography
+The font I am using is __Anders__ made by Tom Anders.
+I made the decision of using this font before I started the designs in Adobe XD. I wanted to make sure I could find the right font to use before starting anything else.
+Tom Anders has a behance.net profile (https://www.behance.net/tomanders) and he shares some of his creations for free.
+
 <p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/samples_photo.png?raw=true">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">
 </p>
 
 ## Gathering feedback based in the Samples
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/samples_photo.png?raw=true">
+</p>
 
 - ### Sample 1: 
 Whenever I asked for feedback regarding this 6 samples, the boat always turned out to be the less favorite. I know why, the shape of the boat doesnt look quite right but in general I like the idea of having a boat because it makes sense to have a boat as a logo on a company called Odyssey but it doesn't look quite professional which is another issue I had with this sample. I could adjust it to make it look better of course, but compared to the other samples I took upon the decision of discarding this sample.
@@ -42,10 +51,6 @@ As stated in Sample 4 I gathered all the feedback and made this sample, its a ci
 - ### Sample 6: 
 I started thinking about colouring the logo when I started drawing the sketch of this sample, because I wanted my logo to have colours. And that is why I used one of the lines of those waves I used in Sample 4 and 5 in the middle of the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle for example which is really good and made me feel more confident. I then started doing colour testing with this logo.
 
-## Typography
-The font I am using is __Anders__ made by Tom Anders.
-I made the decision of using this font before I started the designs in Adobe XD. I wanted to make sure I could find the right font to use before starting anything else.
-Tom Anders has a behance.net profile (https://www.behance.net/tomanders) and he shares some of his creations for free.
 
 
 

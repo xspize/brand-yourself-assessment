@@ -53,7 +53,12 @@ As stated in Sample 4 I gathered all the feedback and made this sample, its a ci
 - ### Sample 6: 
 I started thinking about colouring the logo when I started drawing the sketch of this sample, because I wanted my logo to have colours. And that is why I used one of the lines of those waves I used in Sample 4 and 5 in the middle of the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle for example which is really good and made me feel more confident. I then started doing colour testing with this logo.
 
+## Testing different colours
 
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/sample6_colours.png?raw=true">
+</p>
 
 
 

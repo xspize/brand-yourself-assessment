@@ -15,4 +15,6 @@ I then started doing sketches with a notebook without having much of an idea of 
   <img width="695" height="873" src="https://github.com/xspize/xspize/blob/main/pictures/logo%20sketches.jpeg?raw=true">
 </p>
 
+After having the sketches for the company logo, I used Adobe XD to transform those sketches into real designs. I also wanted to gather some feedback from other people to reach a final conclusion on which one I should use.
+
 

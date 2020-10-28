@@ -14,7 +14,8 @@ I then started doing sketches with a notebook without having much of an idea of 
 <p align="center">
   <img width="695" height="873" src="https://github.com/xspize/xspize/blob/main/pictures/logo%20sketches.jpeg?raw=true">
 </p>
+Since the company name will be __Odyssey__ I wanted the logo to have something to do with going on an adventure, traveling of some kind, but while having in mind that this is supposed to be a digital designer company not a travel agency.
 
-After having the sketches for the company logo, I used Adobe XD to transform those sketches into real designs. I also wanted to gather some feedback from other people to reach a final conclusion on which one I should use.
+I used Adobe XD to transform those sketches into real designs. I also wanted to gather some feedback from other people to reach a final conclusion on which one I should use.
 
 

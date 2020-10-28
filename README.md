@@ -22,5 +22,33 @@ I used Adobe XD to transform those sketches into real designs to also gather som
   <img src="https://github.com/xspize/xspize/blob/main/pictures/samples_photo.png?raw=true">
 </p>
 
-## Gathering feedback
+## Gathering feedback based in the Samples
+
+- ### Sample 1: 
+Whenever I asked for feedback regarding this 6 samples, the boat always turned out to be the less favorite. I know why, the shape of the boat doesnt look quite right but in general I like the idea of having a boat because it makes sense to have a boat as a logo on a company called Odyssey but it doesn't look quite professional which is another issue I had with this sample. I could adjust it to make it look better of course, but compared to the other samples I took upon the decision of discarding this sample.
+
+- ### Sample 2: 
+This sample is one of my favorites due to its simplicity. Now if its memorable? not quite, I wouldnt say so, in order to archieve what I want I can't just have two triangles crossing each other as a logo, but honestly it looks so clean! in terms of feedback it was one of the most liked too.
+
+- ### Sample 3: 
+When it comes to having a familiar logo that has something to do with the name of the company itself, this logo is pretty much the letter [O] of Odyssey highlighted along with the full name underneath. At first I thought of having Dyssey while the [ O ] stands on top of it, but that would not look good at all in my opinion. Regarding feedback this sample was quite liked too but not the most favorite.
+
+- ### Sample 4: 
+Waves,waves! they look amazing! but at the same time its too dull. I created the following samples with this waves in mind which helped me quite a lot to reach something that I actually liked. In terms of feedback well, the people that I asked really liked it but said it's too dull and then they told me that I could add it somewhere else to make it look better and less dull.
+
+- ### Sample 5: 
+As stated in Sample 4 I gathered all the feedback and made this sample, its a circle with the waves inside it. Why a circle? well, once I took another look at sample 3 with the O in separate as a whole logo it came to my mind, why not include 3 initials inside it? so the circle symbolize the O and then inside the letters D and Y. This sample was the favorite amongst the other ones. 
+
+- ### Sample 6: 
+I started thinking about colouring the logo when I started drawing the sketch of this sample, because I wanted my logo to have colours. And that is why I used one of the lines of those waves I used in Sample 4 and 5 in the middle of the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle for example which is really good and made me feel more confident. I then started doing colour testing with this logo.
+
+## Typography
+The font I am using is __Anders__ made by Tom Anders.
+I made the decision of using this font before I started the designs in Adobe XD. I wanted to make sure I could find the right font to use before starting anything else.
+Tom Anders has a behance.net profile (https://www.behance.net/tomanders) and he shares some of his creations for free.
+
+
+
+
+
 

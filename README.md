@@ -2,7 +2,7 @@
 
 A brand needs to have its own identity, be recognizable just from a glance. To use those concepts I started by following important steps until I reach what I intended.
 
-## First step - Research
+## Research
 
 When it comes to researching for ideas to create a logo, there is a whole lot of countless brands to take inspiration from. What I am aiming for is to assimilate a name to an image/shape that is memorable to the user. Some companies already perfectly do these. Lets take **Twitter** as an example, **Twitter** is often associated with a bird, why? because of its very recognizable logo. If one day they decided to change it, users would get very confused since the bird is the company identity.
 
@@ -21,4 +21,6 @@ I used Adobe XD to transform those sketches into real designs to also gather som
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/samples_photo.png?raw=true">
 </p>
+
+## Gathering feedback
 

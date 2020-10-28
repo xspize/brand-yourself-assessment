@@ -10,14 +10,7 @@ When it comes to researching for ideas to create a logo, there is a whole lot of
   <img width="595" height="373" src="https://github.com/xspize/xspize/blob/main/pictures/twitter_evolution.png?raw=true">
 </p>
 
- __Twitter__ changed its identity throughout the years, it first added the symbolic bird in 2010. That change cannot be taken lightly. Since the company decided to change the designed logo the user growth was very noticeable. The graph underneath shows the number of monthly active users worldwide from the first quarter of 2010 till 2019.
-
-<p align="center">
-  <img width="595" height="373" src="https://github.com/xspize/xspize/blob/main/pictures/graph_twitter_growth.png?raw=true">
-</p>
-
-I'm not trying to imply that the logo made the website traffic increase, it was also the way the company advertised its functionalities through the years. I used __twitter__ as an example because it follows the concepts I stated earlier. 
-
+ __Twitter__ changed its identity throughout the years, it first added the symbolic bird in 2010. That change cannot be taken lightly. Since the company decided to change the designed logo the user growth was very noticeable.
 A lot of brainstorming was necessary to find a fitting name for a Digital Design company. That was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__ , honestly, as a designer, we always wander through our thoughts to expand our ideas to satisfy our customers, the word itself is very memorable and usually associated with going on adventures, which can possibly also be one of the slogans for the company. Having the name chosen that will then lead to the second step.
 
 ## Second Step -  Typography

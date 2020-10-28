@@ -27,7 +27,9 @@ Tom Anders has a behance.net profile (https://www.behance.net/tomanders) and he 
   <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">
 </p>
 
-## Gathering feedback based in the Samples
+
+
+## Gathering feedback based in Samples
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/samples_photo.png?raw=true">

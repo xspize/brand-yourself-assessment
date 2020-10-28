@@ -10,7 +10,7 @@ When it comes to researching for ideas to create a logo, there is a whole lot of
   <img width="595" height="373" src="https://github.com/xspize/xspize/blob/main/pictures/twitter_evolution.png?raw=true">
 </p>
 
-As seen above __Twitter__ changed its identity throughout the years, it first added the symbolic bird in 2010. That change cannot be taken lightly. Since the company decided to change the logo the user growth was very noticeable. The graph underneath shows the number of monthly active users worldwide from the first quarter of 2010 till 2019.
+ __Twitter__ changed its identity throughout the years, it first added the symbolic bird in 2010. That change cannot be taken lightly. Since the company decided to change the logo the user growth was very noticeable. The graph underneath shows the number of monthly active users worldwide from the first quarter of 2010 till 2019.
 
 <p align="center">
   <img width="595" height="373" src="https://github.com/xspize/xspize/blob/main/pictures/graph_twitter_growth.png?raw=true">

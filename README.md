@@ -18,5 +18,7 @@ Since the company name will be __Odyssey__ I wanted the logo to have something t
 
 I used Adobe XD to transform those sketches into real designs to also gather some feedback from other people to reach a final conclusion on which one I should use.
 
-
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/samples_photo.png?raw=true">
+</p>
 

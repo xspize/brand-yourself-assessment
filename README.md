@@ -91,7 +91,7 @@ Digital Design displayed in the center:
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_6.png?raw=true">
 </p>
 
-Once the logo was created and all set up, I can now finally start testing out different shades of colouring. Starting with Black and White. 
+Once the logo was created and all set up, I can now finally start testing out different shades of colouring. Before that, I initially made the logo in black and white.
 
 <p align="center">
 Black and white:

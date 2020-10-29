@@ -53,16 +53,57 @@ As stated in Sample 4 I gathered all the feedback and made this sample, its a ci
 - ### Sample 6: 
 I started thinking about colouring the logo when I started drawing the sketch of this sample, because I wanted my logo to have colours. And that is why I used one of the lines of the waves I used in Sample 4 and 5, and in the middle the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle. Which is good and made me feel more confident. I saved this sample as an SVG image and imported it to Adobe Illustrator.
 
-## Doing the Logo in Illustrator
+## Creating the Logo in Illustrator
 After choosing the right Sample previously made in Adobe XD, I then saved the file as an svg image to edit it in Illustrator.
-
-
+First thing I did was to hold shift and created the shape of a circle. In a purple tone.
 
 <p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/sample6_colours.png?raw=true">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/step_1.png?raw=true">
 </p>
 
+Afterwards with the pen tool, I created a shape to simulate a wave that went across the middle of the circle. I managed to do this by subtracting the layer. I chose a darker colour to contrast the purple tone, I will later on test more colours but for now I'm creating the base model of the actual logo.
 
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/step_2.png?raw=true">
+</p>
 
+And then I added the letters D and Y inside the circle. As a matter of design I had the idea of making them have colour from opposite sides of the circle. Since the circle will have 2 different colours, the letters could benefit of using the colour of the opposite sides.
 
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/step_3.png?raw=true">
+</p>
+
+After having the logo in position with everything needed inside it. I then wrote the name of the company underneath it. Using the font __Anders__ as previously stated with a size of 49. I decided to highlight the initial letters ODY due to having them displayed in the logo itself. It looks good in terms of design. Underneath the words Odyssey I added Digital Design because I want people to see what the company is all about. Then again I used the same font with size 11.
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/step_4.png?raw=true">
+</p>
+
+To finalize it I felt like I could add something more underneath the words Odyssey to not let the Digital Design become too dull. For this I thought of 2 options. One of them was to draw a line from the O till the second S until it reached the words Digital Design, and the other idea was to also draw a line but with Digital Design being in the center.
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/step_5.png?raw=true">
+</p>
+
+Digital Design displayed in the center:
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/step_6.png?raw=true">
+</p>
+
+Once the logo was created and all set up, I can now finally start testing out different shades of colouring. Starting with Black and White. 
+
+<p align="center">
+Black and white:
+  <p>
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/Sketch%206%20-%20Black%20and%20White%20resized.png?raw=true">
+</p>
+
+I noticed that the words Digital Design do not look too good in small sizes because the font used fits better in bigger sizes. So I decided to do some testing with other different fonts. The one I ended up choosing was another font made by __Tom Anders__ called Kiona. (https://www.behance.net/gallery/59298181/KIONA-Font-Family-%28Free-Download%29)
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/both_samples_sketch6_bw_dif_fonts.png?raw=true">
+</p>
 

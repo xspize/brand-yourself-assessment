@@ -107,3 +107,25 @@ I noticed that the words Digital Design do not look too good in small sizes beca
   <img src="https://github.com/xspize/xspize/blob/main/pictures/both_samples_sketch6_bw_dif_fonts.png?raw=true">
 </p>
 
+To start deciding on which colours I should use, I went to this website https://colorpalettes.net/ and started looking for 2 warm colors that match each other to try them out on my logo.
+
+<p align="center">
+Samples of how it would look with Warm colours:
+</p>
+<p align="center">
+Autumn Colours Brown/yellow
+</p>
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/sketch6_warm_colours_1.png?raw=true">
+</p>
+
+<p align="center">
+Strawberry/Watermelon Colours Red/pink
+</p>
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/sketch6_warm_colours_2.png?raw=true">
+</p>
+
+

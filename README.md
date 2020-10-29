@@ -112,28 +112,9 @@ To start deciding on which colours I should use, I went to this website https://
 <p align="center">
 Samples of how it would look with Warm colours:
 </p>
-<p align="center">
-Autumn Colours Brown/yellow (Color Palette #4254)
-</p>
 
 <p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/sketch6_warm_colours_1.png?raw=true">
-</p>
-
-<p align="center">
-Strawberry/Watermelon Colours Red/pink (Color Palette #4237)
-</p>
-
-<p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/sketch6_warm_colours_2.png?raw=true">
-</p>
-
-<p align="center">
-Bright blue and Gray. (Color Palette #4138)
-</p>
-
-<p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/sketch6_warm_colours_3.png?raw=true">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/colour_palettes.png?raw=true">
 </p>
 
 

@@ -16,7 +16,7 @@ I then started doing sketches with a notebook without having much of an idea of 
 </p>
 Since the name of the company will be Odyssey I wanted the logo to have something to do with going on an adventure, traveling of some kind, but not too much because this is supposed to be a digital designer company not a travel agency.
 
-I used Adobe XD to transform those sketches into real designs to also gather some feedback from other people to reach a final conclusion on which one I should use.
+I used Adobe XD to transform those sketches into real designs using the pen tool. Since I also needed to gather some feedback from other people to reach a final conclusion on which one I should use.
 
 ## Typography
 The font I am using is __Anders__ made by Tom Anders.
@@ -51,9 +51,11 @@ Waves,waves! they look amazing! but at the same time its too dull. I created the
 As stated in Sample 4 I gathered all the feedback and made this sample, its a circle with the waves inside it. Why a circle? well, once I took another look at sample 3 with the O in separate as a whole logo it came to my mind, why not include 3 initials inside it? so the circle symbolize the O and then inside the letters D and Y. This sample was the favorite amongst the other ones. 
 
 - ### Sample 6: 
-I started thinking about colouring the logo when I started drawing the sketch of this sample, because I wanted my logo to have colours. And that is why I used one of the lines of those waves I used in Sample 4 and 5 in the middle of the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle for example which is really good and made me feel more confident. I then started doing colour testing with this logo.
+I started thinking about colouring the logo when I started drawing the sketch of this sample, because I wanted my logo to have colours. And that is why I used one of the lines of the waves I used in Sample 4 and 5, and in the middle the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle. Which is good and made me feel more confident. I saved this sample as an SVG image and imported it to Adobe Illustrator.
 
-## Testing different colours
+## Doing the Logo in Illustrator
+After choosing the right Sample previously made in Adobe XD, I then saved the file as an svg image to edit it in Illustrator.
+
 
 
 <p align="center">

@@ -16,11 +16,11 @@ I then started doing sketches with a notebook without having much of an idea of 
 </p>
 Since the name of the company will be Odyssey I wanted the logo to have something to do with going on an adventure, traveling of some kind, but not too much because this is supposed to be a digital designer company not a travel agency.
 
-I used Adobe XD to transform those sketches into real designs using the pen tool. Since I also needed to gather some feedback from other people to reach a final conclusion on which one I should use.
+I used Adobe XD to transform those sketches into real designs using the pen tool. Since I also need to gather feedback from other people to help me find the ideal design.
 
 ## Typography
 The font I am using is __Anders__ made by Tom Anders.
-I made the decision of using this font before I started the designs in Adobe XD. I wanted to make sure I could find the right font to use before starting anything else.
+I made the decision of using this font before I started working in Adobe XD. I wanted to make sure I could find the right font to use before starting anything else.
 Tom Anders has a behance.net profile (https://www.behance.net/tomanders) and he shares some of his creations for free.
 
 <p align="center">
@@ -36,16 +36,16 @@ Tom Anders has a behance.net profile (https://www.behance.net/tomanders) and he 
 </p>
 
 - ### Sample 1: 
-Whenever I asked for feedback regarding this 6 samples, the boat always turned out to be the less favorite. I know why, the shape of the boat doesnt look quite right but in general I like the idea of having a boat because it makes sense to have a boat as a logo on a company called Odyssey but it doesn't look quite professional which is another issue I had with this sample. I could adjust it to make it look better of course, but compared to the other samples I took upon the decision of discarding this sample.
+Whenever I asked for feedback about all of the samples, the boat turned was the less favorite. The shape of the boat doesnt look quite right but in general I like the idea of having a boat, since it makes sense to have a boat as a logo of a company called Odyssey. It also doesn't look very professional. I could adjust it to make it look better, but compared to the other samples I took upon the decision of discarding this sample.
 
 - ### Sample 2: 
-This sample is one of my favorites due to its simplicity. Now if its memorable? not quite, I wouldnt say so, in order to archieve what I want I can't just have two triangles crossing each other as a logo, but honestly it looks so clean! in terms of feedback it was one of the most liked too.
+This sample is one of my favorites due to its simplicity. Now if its memorable? not quite, I wouldnt say so, in order to archieve what I want I can't just have two triangles crossing each other as a logo, but honestly it looks so clean! in terms of feedback it was one of the favorite amongst the others.
 
 - ### Sample 3: 
-When it comes to having a familiar logo that has something to do with the name of the company itself, this logo is pretty much the letter [O] of Odyssey highlighted along with the full name underneath. At first I thought of having Dyssey while the [ O ] stands on top of it, but that would not look good at all in my opinion. Regarding feedback this sample was quite liked too but not the most favorite.
+When it comes to having a familiar logo that has something to do with the name of the company itself, this logo is pretty much the letter [O] of Odyssey shown in a huge font size along with the brand name underneath. At first I thought of having Dyssey and have the [ O ] standing on top of it, but that could lead to misunderstandings of what the company is called.
 
 - ### Sample 4: 
-Waves,waves! they look amazing! but at the same time its too dull. I created the following samples with this waves in mind which helped me quite a lot to reach something that I actually liked. In terms of feedback well, the people that I asked really liked it but said it's too dull and then they told me that I could add it somewhere else to make it look better and less dull.
+Waves,waves! they look amazing! but at the same time its too dull. I created the following samples after this one with those waves in mind which helped me quite a lot to reach something that I actually liked. In terms of feedback well, the people that I asked really liked it but said it's too dull and then they told me that I could add it somewhere else to make it look better and more complete.
 
 - ### Sample 5: 
 As stated in Sample 4 I gathered all the feedback and made this sample, its a circle with the waves inside it. Why a circle? well, once I took another look at sample 3 with the O in separate as a whole logo it came to my mind, why not include 3 initials inside it? so the circle symbolize the O and then inside the letters D and Y. This sample was the favorite amongst the other ones. 

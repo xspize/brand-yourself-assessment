@@ -19,13 +19,24 @@ Since the name of the company will be Odyssey I wanted the logo to have somethin
 I used Adobe XD to transform those sketches into real designs using the pen tool. Since I also need to gather feedback from other people to help me find the ideal design.
 
 ## Typography
-The font I am using is __Anders__ made by Tom Anders.
-I made the decision of using this font before I started working in Adobe XD. I wanted to make sure I could find the right font to use before starting anything else.
-Tom Anders has a behance.net profile (https://www.behance.net/tomanders) and he shares some of his creations for free.
-
+I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. (https://www.behance.net/tomanders)
+And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ made by Doubletwo studios. (https://www.behance.net/lecter)
+Both of those fonts can be used for both professional and personal.
+I made the decision of using those fonts before I started working in Adobe XD. I wanted to make sure I found the right fonts to work with before starting anything else.
+<p align="center">
+Anders (Truetype):
+ <p>
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">
 </p>
+
+<p align="center">
+XXII Aven (all possible types):
+ <p>
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/typography_2.png?raw=true">
+</p>
+
 
 
 

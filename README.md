@@ -109,10 +109,6 @@ Black and white:
   <p>
 
 <p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/black_and_white_Centered.png?raw=true">
-</p>
-
-<p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/both_samples_sketch6_bw_dif_fonts.png?raw=true">
 </p>
 

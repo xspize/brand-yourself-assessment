@@ -112,8 +112,6 @@ Black and white:
   <img src="https://github.com/xspize/xspize/blob/main/pictures/black_and_white_Centered.png?raw=true">
 </p>
 
-I noticed that the words Digital Design do not look too good in small sizes because the font used fits better in bigger sizes. So I decided to do some testing with other different fonts. The one I ended up choosing was another font made by __Tom Anders__ called Kiona. (https://www.behance.net/gallery/59298181/KIONA-Font-Family-%28Free-Download%29)
-
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/both_samples_sketch6_bw_dif_fonts.png?raw=true">
 </p>

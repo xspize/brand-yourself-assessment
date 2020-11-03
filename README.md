@@ -34,7 +34,7 @@ I made the decision of using those fonts before I started working in Adobe XD. I
 ## Gathering feedback based in Samples
 
 <p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/samples_photo.png?raw=true">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/Samples.png?raw=true">
 </p>
 
 - ### Sample 1: 

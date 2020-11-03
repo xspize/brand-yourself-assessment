@@ -23,18 +23,9 @@ I am using two different fonts for the logo. for ODYSSEY I use a free font made 
 And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ made by Doubletwo studios. (https://www.behance.net/lecter)
 Both of those fonts can be used for both professional and personal.
 I made the decision of using those fonts before I started working in Adobe XD. I wanted to make sure I found the right fonts to work with before starting anything else.
-<p align="center">
-Anders (Truetype):
- <p>
-<p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">
-</p>
 
 <p align="center">
-XXII Aven (all possible types):
- <p>
-<p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/typography_2.png?raw=true">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">
 </p>
 
 

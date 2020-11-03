@@ -12,8 +12,7 @@ After thinking of a name for the company, I used https://www.logodesignlove.com/
 I started creating various sketches with a notebook using some of the shapes I found in that website.
 
 
-
-![logo sketches](pictures/logo sketches.jpeg)
+![](pictures/logo sketches.jpeg)
 
 Since the name of the company will be Odyssey I wanted the logo to have something to do with going on an adventure, traveling of some kind, but not too much because this is supposed to be a digital designer company not a travel agency.
 

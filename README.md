@@ -93,14 +93,14 @@ Digital Design displayed in the center:
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_6.png?raw=true">
 </p>
 
-Once the logo was created and all set up, I can now finally start testing out different shades of colouring. Before that, I initially made the logo in black and white.
+Once the logo was created and all set up, I can now finally start testing out different shades of colouring.
 
 <p align="center">
-Black and white:
+Black image in white canvas:
   <p>
 
 <p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/both_samples_sketch6_bw_dif_fonts.png?raw=true">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/black_logo_bg.png?raw=true">
 </p>
 
 To start deciding on which colours I should use, I went to this website https://colorpalettes.net/ and started looking for 2 warm colors that match each other to try them out on my logo.

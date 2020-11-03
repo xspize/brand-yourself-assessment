@@ -11,9 +11,10 @@ A lot of brainstorming was necessary to find a fitting name for a Digital Design
 After thinking of a name for the company, I used https://www.logodesignlove.com/, logodesignlove.com/yukio-ota-locos, https://www.logodesignlove.com/the-logo-design-idea-book to  give me an insight of various types of shapes I could go for.
 I started creating various sketches with a notebook using some of the shapes I found in that website.
 
-<p align="center">
-  <img width="695" height="873" src="https://github.com/xspize/xspize/blob/main/pictures/logo%20sketches.jpeg?raw=true">
-</p>
+
+
+![logo sketches](pictures/logo sketches.jpeg)
+
 Since the name of the company will be Odyssey I wanted the logo to have something to do with going on an adventure, traveling of some kind, but not too much because this is supposed to be a digital designer company not a travel agency.
 
 I used Adobe XD to transform those sketches into real designs using the pen tool. Since I also need to gather feedback from other people to help me find the ideal design.

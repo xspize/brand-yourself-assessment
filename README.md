@@ -118,7 +118,7 @@ Cooler Colors:
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/colour_palettes_cool.png?raw=true">
 </p>
-I decided to choose 4 colours for the main logo that can be used for different ocasions. they will be the official and final outputs of my design in which I'll showcase it in my portfolio.
+I decided to choose 4 colours for the main logo that can be used for different occasions. they will be the official and final outputs of my design in which I'll showcase it in my portfolio.
 To display my work in Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
 I'm using Photoshop over InDesign because I am more familiar with it.
 For the first image I will leave it simple with having the logo displayed along the background. I'm using the function "Drop Shadow" to create shadows that distinguish the logo and make it more noticeable.

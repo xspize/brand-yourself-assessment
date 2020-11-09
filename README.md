@@ -121,5 +121,26 @@ Cooler Colors:
 I decided to choose 4 colours for the main logo that can be used for different ocasions. they will be the official and final outputs of my design in which I'll showcase it in my portfolio.
 To display my work in Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
 I'm using Photoshop over InDesign because I am more familiar with it.
-For the first page
+For the first image I will leave it simple with having the logo displayed along the background. I'm using the function "Drop Shadow" to create shadows that distinguish the logo and make it more noticeable.
+For the background I'm using a texture to make it more interesting and less dull. I'm using one of the patterns inside the "trees" folder in which is included with Photoshop.
+I have also used a pattern with lines. In total I'm using 2 different patterns in the same image. To accomplish this I rasterized the image and changed the pattern again. I also made a shape in white and reduced the opacity to create a "mirror" effect. 
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image1.jpg?raw=true">
+</p>
+
+For the second image I will show the logo in black on a white canvas and the logo in one of its normal colours in a similar background used for the first image. For the white background I'm using one of the patterns inside the "grass" folder which is also included in Photoshop. To make the logo fully black I had to crop the words D and Y inside the circle to include them. I did that to not have a black circle without those 2 words. I always tend to use rulers to put lines to align everything accordingly.
+
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image2.jpg?raw=true">
+</p>
+
+
+
+
+
+
+
+https://unsplash.com/photos/fGkBx7hX9Ms
 

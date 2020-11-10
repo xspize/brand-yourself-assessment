@@ -141,7 +141,7 @@ For the second image I will show the logo in black on a white canvas and the log
 
 
 
-
+photos used
 https://unsplash.com/photos/fGkBx7hX9Ms
 https://unsplash.com/photos/LVvFCmmwWlk
 

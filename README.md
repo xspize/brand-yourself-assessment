@@ -154,11 +154,11 @@ Pictures used:
 <p>
 Brajeshwar Oinam. “Silver Imac with Apple Magic Keyboard and Magic Mouse.” Unsplash.com, Unsplash, 10 July 2020,
 <p>
-unsplash.com/photos/fGkBx7hX9Ms.
+www.unsplash.com/photos/fGkBx7hX9Ms.
 <p>
 Seitamaa, Sandra. “Silhouette of Two People Standing on Mountain during Daytime.” Unsplash.com, Unsplash, 5 Mar. 2019,
 <p>
-unsplash.com/photos/LVvFCmmwWlk.
+www.unsplash.com/photos/LVvFCmmwWlk.
 
 
 

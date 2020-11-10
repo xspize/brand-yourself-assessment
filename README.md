@@ -140,7 +140,7 @@ For the second image I will show the logo in black on a white canvas and the log
 
 
 ## Resources List
-Inspiration:
+__Inspiration:__
 <p>
 “The Logo Design Idea Book, by Steven Heller and Gail Anderson.” Logo Design Love, Aug. 2019,
  <p>
@@ -150,7 +150,7 @@ Airey, David. “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Lov
 <p>
 www.logodesignlove.com/yukio-ota-locos.
 
-Pictures used:
+__Pictures used:__
 <p>
 Brajeshwar Oinam. “Silver Imac with Apple Magic Keyboard and Magic Mouse.” Unsplash.com, Unsplash, 10 July 2020,
 <p>

@@ -8,7 +8,7 @@ When it comes to researching for ideas to create a logo, there is a whole lot of
 
 A lot of brainstorming was necessary to find a fitting name for a Digital Design company. That was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__ , honestly, as a designer, we always wander through our thoughts to expand our ideas to satisfy our customers, the word itself is very memorable and usually associated with going on adventures, which can possibly also be one of the slogans for the company. 
 
-After thinking of a name for the company, I used https://www.logodesignlove.com/, logodesignlove.com/yukio-ota-locos, https://www.logodesignlove.com/the-logo-design-idea-book to  give me an insight of various types of shapes I could go for.
+After thinking of a name for the company, I got ideas from (Airey, “The Logo Design Idea Book, by Steven Heller and Gail Anderson”) and (Airey, “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love”) to  give me an insight of various types of shapes I could go for.
 I started creating various sketches with a notebook using some of the shapes I found in that website.
 
 
@@ -139,9 +139,14 @@ For the second image I will show the logo in black on a white canvas and the log
 
 
 
+## Resources List
+Inspiration:
+“The Logo Design Idea Book, by Steven Heller and Gail Anderson.” Logo Design Love, Aug. 2019, www.logodesignlove.com/the-logo-design-idea-book.
+Airey, David. “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love.” Logo Design Love, 28 July 2020, www.logodesignlove.com/yukio-ota-locos.
+
+Pictures used:
+Brajeshwar Oinam. “Silver Imac with Apple Magic Keyboard and Magic Mouse.” Unsplash.com, Unsplash, 10 July 2020, unsplash.com/photos/fGkBx7hX9Ms.
+Seitamaa, Sandra. “Silhouette of Two People Standing on Mountain during Daytime.” Unsplash.com, Unsplash, 5 Mar. 2019, unsplash.com/photos/LVvFCmmwWlk.
 
 
-photos used
-https://unsplash.com/photos/fGkBx7hX9Ms
-https://unsplash.com/photos/LVvFCmmwWlk
 

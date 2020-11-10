@@ -142,15 +142,23 @@ For the second image I will show the logo in black on a white canvas and the log
 ## Resources List
 Inspiration:
 <p>
-“The Logo Design Idea Book, by Steven Heller and Gail Anderson.” Logo Design Love, Aug. 2019, www.logodesignlove.com/the-logo-design-idea-book.
+“The Logo Design Idea Book, by Steven Heller and Gail Anderson.” Logo Design Love, Aug. 2019,
+ <p>
+www.logodesignlove.com/the-logo-design-idea-book.
 <p>
-Airey, David. “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love.” Logo Design Love, 28 July 2020, www.logodesignlove.com/yukio-ota-locos.
+Airey, David. “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love.” Logo Design Love, 28 July 2020,
+<p>
+www.logodesignlove.com/yukio-ota-locos.
 
 Pictures used:
 <p>
-Brajeshwar Oinam. “Silver Imac with Apple Magic Keyboard and Magic Mouse.” Unsplash.com, Unsplash, 10 July 2020, unsplash.com/photos/fGkBx7hX9Ms.
+Brajeshwar Oinam. “Silver Imac with Apple Magic Keyboard and Magic Mouse.” Unsplash.com, Unsplash, 10 July 2020,
 <p>
-Seitamaa, Sandra. “Silhouette of Two People Standing on Mountain during Daytime.” Unsplash.com, Unsplash, 5 Mar. 2019, unsplash.com/photos/LVvFCmmwWlk.
+unsplash.com/photos/fGkBx7hX9Ms.
+<p>
+Seitamaa, Sandra. “Silhouette of Two People Standing on Mountain during Daytime.” Unsplash.com, Unsplash, 5 Mar. 2019,
+<p>
+unsplash.com/photos/LVvFCmmwWlk.
 
 
 

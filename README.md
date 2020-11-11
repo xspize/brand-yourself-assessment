@@ -154,11 +154,11 @@ __Pictures used:__
 <p>
 KasparsSprogis. “Magic Mockups • Free Real-Life Mockup Generator.” Magicmockups.com, 2020,
 <p>
-magicmockups.com/mockup/24/5085fb06a6d2493b923d285e6996d256.
+www.magicmockups.com/mockup/24/5085fb06a6d2493b923d285e6996d256.
 <p>
 “Magic Mockups • Free Real-Life Mockup Generator.” Magicmockups.com, 2020,
 <p>
-magicmockups.com/mockup/9/9ebcb2debf70438f9a2454c8e9a85015.
+www.magicmockups.com/mockup/9/9ebcb2debf70438f9a2454c8e9a85015.
 <p>
 Seitamaa, Sandra. “Silhouette of Two People Standing on Mountain during Daytime.” Unsplash.com, Unsplash, 5 Mar. 2019,
 <p>

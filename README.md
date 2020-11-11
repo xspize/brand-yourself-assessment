@@ -152,9 +152,13 @@ www.logodesignlove.com/yukio-ota-locos.
 
 __Pictures used:__
 <p>
-Brajeshwar Oinam. “Silver Imac with Apple Magic Keyboard and Magic Mouse.” Unsplash.com, Unsplash, 10 July 2020,
+KasparsSprogis. “Magic Mockups • Free Real-Life Mockup Generator.” Magicmockups.com, 2020,
 <p>
-www.unsplash.com/photos/fGkBx7hX9Ms.
+magicmockups.com/mockup/24/5085fb06a6d2493b923d285e6996d256.
+<p>
+“Magic Mockups • Free Real-Life Mockup Generator.” Magicmockups.com, 2020,
+<p>
+magicmockups.com/mockup/9/9ebcb2debf70438f9a2454c8e9a85015.
 <p>
 Seitamaa, Sandra. “Silhouette of Two People Standing on Mountain during Daytime.” Unsplash.com, Unsplash, 5 Mar. 2019,
 <p>

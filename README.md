@@ -246,6 +246,14 @@ I used a mockup MacBook (“Free MacBook Pro Mockup - Mockups Design | Free Prem
 
 <p>
 For the final image, I use a mockup made by (“Free IPhone 11 Pro Mockup - Mockups Design | Free Premium Mockups”) in which I only show the logo with a mirrored effect.
+  
+<p>
+
+## Behance
+<p>
+After completing the design outputs I exported all artboards with a jpeg format. I then uploaded everything to my Behance Portfolio.
+I'm using a content spacing of 0px to make all the images connect.
+Behance profile: https://www.behance.net/gallery/107872807/Odyssey-Digital-Design
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image11.jpg?raw=true">

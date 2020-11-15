@@ -121,13 +121,17 @@ Cooler Colors:
 I decided to choose 4 colours for the main logo that can be used for different occasions. they will be the official and final outputs of my design in which I'll showcase it in my portfolio.
 To display my work in Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
 I'm using Photoshop over InDesign because I am more familiar with it.
+<p>
+## First Image Output
+<p>
 For the first image I will leave it simple with having the logo displayed along the background. I'm using the function "Drop Shadow" to create shadows that distinguish the logo and make it more noticeable.
 For the background I did some testing with textures and line patterns but instead I decided to draw a line and turn the shape into a wave and place it in the middle to make an effect similar to what the logo has. The idea is to connect each page with each other.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image1.jpg?raw=true">
 </p>
-
+## Second Image Output
+<p>
 In the second image I will show the slogan made for the brand. This slogan was initially made for the landing page but since i liked how it sounded I used it for this page and I think it fits well with the rest of the project. I wanted both pages to connect with each other, to archieve that I made a similar line transformed into a wave and filled it with the colour white and decreased the opacity to 2%.
 
 

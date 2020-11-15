@@ -32,6 +32,18 @@ I made the decision of using those fonts before I started working in Adobe XD. I
 
 
 ## Choosing the right logo
+<p>
+<p>
+   
+<br />
+<p>
+<p>
+   
+<br />
+<p>
+<p>
+   
+<br />
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/Samples.png?raw=true">

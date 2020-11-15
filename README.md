@@ -19,8 +19,8 @@ Since the name of the company will be Odyssey I wanted the logo to have somethin
 I used Adobe XD to transform those sketches into real designs using the pen tool. Since I also need to gather feedback from other people to help me find the ideal design.
 
 ## Typography
-I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. (https://www.behance.net/tomanders)
-And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ made by Doubletwo studios. (https://www.behance.net/lecter)
+I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. (Behance)
+And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ made by Doubletwo studios. (doubletwo)
 Both of those fonts can be used for both professional and personal.
 I made the decision of using those fonts before I started working in Adobe XD. I wanted to make sure I found the right fonts to work with before starting anything else.
 
@@ -253,6 +253,21 @@ www.logodesignlove.com/the-logo-design-idea-book.
 Airey, David. “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love.” Logo Design Love, 28 July 2020,
 <p>
 www.logodesignlove.com/yukio-ota-locos.
+<p>
+  
+__Typography:__
+
+<p>
+doubletwo. “XXII Aven.” Doubletwo Studios, 2011,
+<p>
+doubletwo.net/product/xxii-aven/.
+<p>
+Behance. “Anders (Free Font).” Behance, 11 Oct. 2014,
+<p>
+www.behance.net/gallery/18068463/Anders-%28Free-Font%29
+<p>
+
+
 
 __Pictures used:__
 <p>

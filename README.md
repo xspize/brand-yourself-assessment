@@ -254,7 +254,9 @@ For the final image, I use a mockup made by (“Free IPhone 11 Pro Mockup - Mock
 ## Behance
 <p>
 After completing the design outputs I exported all artboards with a jpeg format. I then uploaded everything to my Behance Portfolio.
-I'm using a content spacing of 0px to make all the images connect.
+<p>
+I am using a content spacing of 0px to make all the images connect.
+<p>
 Behance profile: https://www.behance.net/gallery/107872807/Odyssey-Digital-Design
 <p>
 

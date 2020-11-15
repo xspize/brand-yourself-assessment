@@ -273,11 +273,11 @@ __Pictures used:__
 <p>
 Andrew. “Free IPhone 11 Pro Mockup - Mockups Design | Free Premium Mockups.” Mockups Design | Free Premium Mockups, 11 Feb. 2020,
 <p>
-mockups-design.com/free-iphone-11-pro-mockup/.
+www.mockups-design.com/free-iphone-11-pro-mockup/.
 <p>
 Andrew. “Corporate Identity Mockup - Mockups Design | Free Premium Mockups.” Mockups Design | Free Premium Mockups, 22 Dec. 2015, 
 <p>
-mockups-design.com/small-corporate-identity/.
+www.mockups-design.com/small-corporate-identity/.
 <p>
 Seitamaa, Sandra. “Silhouette of Two People Standing on Mountain during Daytime.” Unsplash.com, Unsplash, 5 Mar. 2019,
 <p>

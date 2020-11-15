@@ -103,7 +103,7 @@ Black image in white canvas:
   <img src="https://github.com/xspize/xspize/blob/main/pictures/black_logo_bg.png?raw=true">
 </p>
 
-To start deciding on which colours I should use, I went to this website https://colorpalettes.net/ and started looking for 2 warm colors that match each other to try them out on my logo.
+To start deciding on which colours I should use, I went to the website colourpallettes (https://colorpalettes.net/) and started looking for 2 warm colors that match each other to try them out on my logo.
 
 <p align="center">
 Warm Colors:
@@ -122,22 +122,66 @@ I decided to choose 4 colours for the main logo that can be used for different o
 To display my work in Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
 I'm using Photoshop over InDesign because I am more familiar with it.
 For the first image I will leave it simple with having the logo displayed along the background. I'm using the function "Drop Shadow" to create shadows that distinguish the logo and make it more noticeable.
-For the background I'm using a texture to make it more interesting and less dull. I'm using one of the patterns inside the "trees" folder in which is included with Photoshop.
-I have also used a pattern with lines. In total I'm using 2 different patterns in the same image. To accomplish this I rasterized the image and changed the pattern again. I also made a shape in white and reduced the opacity to create a "mirror" effect. 
+For the background I did some testing with textures and line patterns but instead I decided to draw a line and turn the shape into a wave and place it in the middle to make an effect similar to what the logo has. The idea is to connect each page with each other.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image1.jpg?raw=true">
 </p>
 
-For the second image I will show the logo in black on a white canvas and the logo in one of its normal colours in a similar background used for the first image. For the white background I'm using one of the patterns inside the "grass" folder which is also included in Photoshop. To make the logo fully black I had to crop the words D and Y inside the circle to include them. I did that to not have a black circle without those 2 words. I always tend to use rulers to put lines to align everything accordingly.
+In the second image I will show the slogan made for the brand. This slogan was initially made for the landing page but since i liked how it sounded I used it for this page and I think it fits well with the rest of the project. I wanted both pages to connect with each other, to archieve that I made a similar line transformed into a wave and filled it with the colour white and decreased the opacity to 2%.
 
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image2.jpg?raw=true">
 </p>
 
+I chose the typography image to be in the third image. This image is very straightforward. It has the name of both fonts used and examples of how they look when used. Instead of inserting another line transformed into a wave I made a different shape and put it on the right side of the image to connect it with the previous one.
 
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image3.jpg?raw=true">
+</p>
 
+This page shows the 4 official colours made for the company and also the 2 possible designs that can be used. either with the words digital design centered or on the right side followed by a line. 
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image4.jpg?raw=true">
+</p>
+
+This page shows what to avoid when using the logo. Above of the 3 examples of what you should not do, we can see the right way to use the logo. I decided to put that in there since the logo has 2 different design choices.
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image5.jpg?raw=true">
+</p>
+
+In this image I show the clear space of the logo. This is approximately 20% of the size of the logo.
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image6.jpg?raw=true">
+</p>
+
+For this image I put the black version of the logo on a white canvas with the normal logo on the right.
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image7.jpg?raw=true">
+</p>
+
+For this page I use once again the black version of the logo on a white A4 mockup notepad. (“Corporate Identity Mockup - Mockups Design | Free Premium Mockups”)
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image8.jpg?raw=true">
+</p>
+This page shows the business cards made for the company. I decided to use the wave effect in both sides to match it with the wave effect inside the circle of the logo. To showcase the business cards I used a mockup (“Corporate Identity Mockup - Mockups Design | Free Premium Mockups”) and on the other side the 85x55 sized cards.
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image9.jpg?raw=true">
+</p>
+I used a mockup macbook (“Free MacBook Pro Mockup - Mockups Design | Free Premium Mockups”) to show the landing page of the company. Inside the landing page I use an image made by (Seitamaa) I added the slogan of the company on top of that image in which was used to display a slider in the landing page.
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image10.jpg?raw=true">
+</p>
+For the final image I use a mockup made by (“Free IPhone 11 Pro Mockup - Mockups Design | Free Premium Mockups”) in which I only show the logo with a mirrored effect.
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/image11.jpg?raw=true">
+</p>
 
 ## Resources List
 __Inspiration:__
@@ -152,13 +196,13 @@ www.logodesignlove.com/yukio-ota-locos.
 
 __Pictures used:__
 <p>
-KasparsSprogis. “Magic Mockups • Free Real-Life Mockup Generator.” Magicmockups.com, 2020,
+Andrew. “Free IPhone 11 Pro Mockup - Mockups Design | Free Premium Mockups.” Mockups Design | Free Premium Mockups, 11 Feb. 2020,
 <p>
-www.magicmockups.com/mockup/24/5085fb06a6d2493b923d285e6996d256.
+mockups-design.com/free-iphone-11-pro-mockup/.
 <p>
-“Magic Mockups • Free Real-Life Mockup Generator.” Magicmockups.com, 2020,
+Andrew. “Corporate Identity Mockup - Mockups Design | Free Premium Mockups.” Mockups Design | Free Premium Mockups, 22 Dec. 2015, 
 <p>
-www.magicmockups.com/mockup/9/9ebcb2debf70438f9a2454c8e9a85015.
+mockups-design.com/small-corporate-identity/.
 <p>
 Seitamaa, Sandra. “Silhouette of Two People Standing on Mountain during Daytime.” Unsplash.com, Unsplash, 5 Mar. 2019,
 <p>

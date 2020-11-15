@@ -129,6 +129,7 @@ Warm Colours:
 <p align="center">
 <p>
 After making 3 warm samples of the logo I then started looking for cooler colours to see which one fits the best.
+<p>
 Cooler Colours:
 </p>
 <p align="center">
@@ -139,7 +140,11 @@ I decided to choose 4 colours for the main logo that can be used for different o
 <p>
 To display my work in Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
 <p>
-  
+  <p>
+   
+<br />
+
+
 ## First Image Output
 
 <p>

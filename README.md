@@ -61,6 +61,10 @@ As stated in Sample 4 I had those waves in mind for this sample, it's a circle w
 - ### Sample 6: 
 I started thinking about colouring the logo when I started drawing the sketch for this sample, because I wanted my logo to have colours. And that is why I used one of the lines of the waves I used in Sample 4 and 5. And in the middle the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle. Which is good and made me feel more confident about my project. I saved this sample as an SVG image and imported it to Adobe Illustrator.
 
+<p>
+   
+<br />
+
 ## Creating the Logo (Sample 6) in Illustrator
 After choosing the right Sample previously made in Adobe XD, I then saved the file as an svg image to edit it in Illustrator.
 The first thing I did was to hold shift and created the shape of a circle. In a purple tone.

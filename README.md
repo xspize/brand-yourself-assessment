@@ -224,7 +224,7 @@ For this page, I use once again the black version of the logo on a white A4 mock
 
 <p>
 
-This page shows the business cards made for the company. I decided to use the wave effect on both sides to match it with the wave effect inside the circle of the logo. To showcase the business cards I used a mockup (“Corporate Identity Mockup - Mockups Design | Free Premium Mockups”) and on the other side the 85x55 sized cards.
+This page shows the business cards made for the company. I decided to use the wave effect on both sides to match it with the wave effect inside the circle of the logo. To show the business cards I used a mockup (“Corporate Identity Mockup - Mockups Design | Free Premium Mockups”) and on the right side the 85x55 sized cards.
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image9.jpg?raw=true">
 </p>

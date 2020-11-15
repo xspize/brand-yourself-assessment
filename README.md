@@ -260,7 +260,7 @@ __Typography:__
 <p>
 doubletwo. “XXII Aven.” Doubletwo Studios, 2011,
 <p>
-doubletwo.net/product/xxii-aven/.
+www.doubletwo.net/product/xxii-aven/.
 <p>
 Behance. “Anders (Free Font).” Behance, 11 Oct. 2014,
 <p>

@@ -39,7 +39,7 @@ I made the decision of using those fonts before I started working in Adobe XD. I
 
 <p>
 <p>
-
+<br />
 - ### Sample 1: 
 The shape of the boat does not look quite right but in general, I like the idea of having a boat, it makes sense to have a boat as a logo of a company called Odyssey but it doesn't look very professional. I could adjust it to make it look better, but compared to the other samples I took upon the decision of discarding this sample.
 

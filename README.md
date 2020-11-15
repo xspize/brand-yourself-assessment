@@ -137,7 +137,7 @@ Black Logo on a white canvas:
 To start deciding on which colours I should use, I went to the website colorpallettes (colorpalettes, “Color Palette Ideas | ColorPalettes.Net”) and started looking for 2 warm colours that match each other to try them out on my logo.
 <p>
 <p align="center">
-Warm Colours:
+Warm colours:
 </p>
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/colour_palettes_warm.png?raw=true">
@@ -147,7 +147,7 @@ Warm Colours:
 <p>
 After making 3 warm samples of the logo I then started looking for cooler colours to see which one fits the best.
 <p>
-Cooler Colours:
+Cooler colours:
 </p>
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/colour_palettes_cool.png?raw=true">
@@ -286,7 +286,7 @@ For the final image, I use a mockup made by (“Free IPhone 11 Pro Mockup - Mock
 
 ## Behance
 <p>
-After completing the design outputs I exported all artboards with a jpeg format. I then uploaded everything to my Behance Portfolio.
+After completing the design outputs I exported all artboards with a jpeg format. I then uploaded everything to my Behance portfolio.
 <p>
 I am using a content spacing of 0px to make all the images connect.
 <p>

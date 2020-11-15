@@ -110,17 +110,19 @@ Black Logo on a white canvas:
   <img src="https://github.com/xspize/xspize/blob/main/pictures/black_logo_bg.png?raw=true">
 </p>
 <p>
-To start deciding on which colours I should use, I went to the website colorpallettes (colorpalettes, “Color Palette Ideas | ColorPalettes.Net”) and started looking for 2 warm colors that match each other to try them out on my logo.
+To start deciding on which colours I should use, I went to the website colorpallettes (colorpalettes, “Color Palette Ideas | ColorPalettes.Net”) and started looking for 2 warm colours that match each other to try them out on my logo.
 <p>
 <p align="center">
-Warm Colors:
+Warm Colours:
 </p>
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/colour_palettes_warm.png?raw=true">
 </p>
 
 <p align="center">
-Cooler Colors:
+<p>
+After making 3 warm samples of the logo I then started looking for cooler colours to see which one fits the best.
+Cooler Colours:
 </p>
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/colour_palettes_cool.png?raw=true">

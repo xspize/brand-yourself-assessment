@@ -36,7 +36,7 @@ I made the decision of using those fonts before I started working in Adobe XD. I
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/Samples.png?raw=true">
 </p>
-
+<p>
 - ### Sample 1: 
 The shape of the boat doesnt look quite right but in general I like the idea of having a boat, it makes sense to have a boat as a logo of a company called Odyssey but it doesn't look very professional. I could adjust it to make it look better, but compared to the other samples I took upon the decision of discarding this sample.
 

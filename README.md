@@ -122,15 +122,19 @@ I decided to choose 4 colours for the main logo that can be used for different o
 To display my work in Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
 I'm using Photoshop over InDesign because I am more familiar with it.
 <p>
+  
 ## First Image Output
+
 <p>
 For the first image I will leave it simple with having the logo displayed along the background. I'm using the function "Drop Shadow" to create shadows that distinguish the logo and make it more noticeable.
 For the background I did some testing with textures and line patterns but instead I decided to draw a line and turn the shape into a wave and place it in the middle to make an effect similar to what the logo has. The idea is to connect each page with each other.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image1.jpg?raw=true">
-</p>
+<p>
+  
 ## Second Image Output
+
 <p>
 In the second image I will show the slogan made for the brand. This slogan was initially made for the landing page but since i liked how it sounded I used it for this page and I think it fits well with the rest of the project. I wanted both pages to connect with each other, to archieve that I made a similar line transformed into a wave and filled it with the colour white and decreased the opacity to 2%.
 
@@ -139,29 +143,56 @@ In the second image I will show the slogan made for the brand. This slogan was i
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image2.jpg?raw=true">
 </p>
 
+<p>
+  
+## Third Image Output
+
+<p>
+
 I chose the typography image to be in the third image. This image is very straightforward. It has the name of both fonts used and examples of how they look when used. Instead of inserting another line transformed into a wave I made a different shape and put it on the right side of the image to connect it with the previous one.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image3.jpg?raw=true">
 </p>
 
-This page shows the 4 official colours made for the company and also the 2 possible designs that can be used. either with the words digital design centered or on the right side followed by a line. 
+<p>
+  
+## Fourth Image Output
+
+<p>
+
+This image shows the 4 official colours made for the company and also the 2 possible designs that can be used. either with the words digital design centered or on the right side followed by a line. 
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image4.jpg?raw=true">
 </p>
+<p>
+  
+## Fifth Image Output
 
-This page shows what to avoid when using the logo. Above of the 3 examples of what you should not do, we can see the right way to use the logo. I decided to put that in there since the logo has 2 different design choices.
+<p>
+
+This image shows what to avoid when using the logo. Above of the 3 examples of what you should not do, we can see the right way to use the logo. I decided to put that in there since the logo has 2 different design choices.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image5.jpg?raw=true">
 </p>
+<p>
+  
+## Sixth Image Output
+
+<p>
 
 In this image I show the clear space of the logo. This is approximately 20% of the size of the logo.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image6.jpg?raw=true">
 </p>
+<p>
+  
+## Seventh Image Output
+
+<p>
 
 For this image I put the black version of the logo on a white canvas with the normal logo on the right.
 
@@ -169,18 +200,43 @@ For this image I put the black version of the logo on a white canvas with the no
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image7.jpg?raw=true">
 </p>
 
+<p>
+  
+## Eighth Image Output
+
+<p>
+
 For this page I use once again the black version of the logo on a white A4 mockup notepad. (“Corporate Identity Mockup - Mockups Design | Free Premium Mockups”)
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image8.jpg?raw=true">
 </p>
+<p>
+  
+## Ninth Image Output
+
+<p>
+
 This page shows the business cards made for the company. I decided to use the wave effect in both sides to match it with the wave effect inside the circle of the logo. To showcase the business cards I used a mockup (“Corporate Identity Mockup - Mockups Design | Free Premium Mockups”) and on the other side the 85x55 sized cards.
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image9.jpg?raw=true">
 </p>
+
+<p>
+  
+## Tenth Image Output
+
+<p>
+
 I used a mockup macbook (“Free MacBook Pro Mockup - Mockups Design | Free Premium Mockups”) to show the landing page of the company. Inside the landing page I use an image made by (Seitamaa) I added the slogan of the company on top of that image in which was used to display a slider in the landing page.
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image10.jpg?raw=true">
 </p>
+
+<p>
+  
+## Eleventh Image Output
+
+<p>
 For the final image I use a mockup made by (“Free IPhone 11 Pro Mockup - Mockups Design | Free Premium Mockups”) in which I only show the logo with a mirrored effect.
 
 <p align="center">

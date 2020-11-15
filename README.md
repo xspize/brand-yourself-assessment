@@ -275,6 +275,10 @@ I am using a content spacing of 0px to make all the images connect.
 <p>
 Behance profile: https://www.behance.net/gallery/107872807/Odyssey-Digital-Design
 <p>
+  
+  <p>
+   
+<br />
 
 ## Resources List
 __Inspiration:__

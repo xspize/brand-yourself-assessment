@@ -149,7 +149,7 @@ In the second image I will show the slogan made for the brand. This slogan was i
 
 <p>
 
-I chose the typography image to be in the third image. This image is very straightforward. It has the name of both fonts used and examples of how they look when used. Instead of inserting another line transformed into a wave I made a different shape and put it on the right side of the image to connect it with the previous one.
+I chose the typography image to be in the third image. This image is very straightforward. It has the name of both fonts used and examples of how they look when used. Instead of inserting another line transformed into a wave I made a different shape and put it on the right side of the image to connect it with the previous one. (Visual Identity Style Guide 1/4)
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image3.jpg?raw=true">
@@ -161,7 +161,7 @@ I chose the typography image to be in the third image. This image is very straig
 
 <p>
 
-This image shows the 4 official colours made for the company and also the 2 possible designs that can be used. either with the words digital design centered or on the right side followed by a line. 
+This image shows the 4 official colours made for the company and also the 2 possible designs that can be used. either with the words digital design centered or on the right side followed by a line. (Visual Identity Style Guide 2/4)
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image4.jpg?raw=true">
@@ -172,7 +172,7 @@ This image shows the 4 official colours made for the company and also the 2 poss
 
 <p>
 
-This image shows what to avoid when using the logo. Above of the 3 examples of what you should not do, we can see the right way to use the logo. I decided to put that in there since the logo has 2 different design choices.
+This image shows what to avoid when using the logo. Above of the 3 examples of what you should not do, we can see the right way to use the logo. I decided to put that in there since the logo has 2 different design choices. (Visual Identity Style Guide 3/4)
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image5.jpg?raw=true">
@@ -183,7 +183,7 @@ This image shows what to avoid when using the logo. Above of the 3 examples of w
 
 <p>
 
-In this image I show the clear space of the logo. This is approximately 20% of the size of the logo.
+In this image I show the clear space of the logo. This is approximately 20% of the size of the logo. (Visual Identity Style Guide 4/4)
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image6.jpg?raw=true">

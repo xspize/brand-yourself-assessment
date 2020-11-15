@@ -31,31 +31,31 @@ I made the decision of using those fonts before I started working in Adobe XD. I
 
 
 
-## Gathering feedback based in Samples
+## Choosing the right logo
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/Samples.png?raw=true">
 </p>
 
 - ### Sample 1: 
-Whenever I asked for feedback about all of the samples, the boat turned was the less favorite. The shape of the boat doesnt look quite right but in general I like the idea of having a boat, since it makes sense to have a boat as a logo of a company called Odyssey. It also doesn't look very professional. I could adjust it to make it look better, but compared to the other samples I took upon the decision of discarding this sample.
+The shape of the boat doesnt look quite right but in general I like the idea of having a boat, it makes sense to have a boat as a logo of a company called Odyssey but it doesn't look very professional. I could adjust it to make it look better, but compared to the other samples I took upon the decision of discarding this sample.
 
 - ### Sample 2: 
-This sample is one of my favorites due to its simplicity. Now if its memorable? not quite, I wouldnt say so, in order to archieve what I want I can't just have two triangles crossing each other as a logo, but honestly it looks so clean! in terms of feedback it was one of the favorite amongst the others.
+This sample is one of my favorites. I tried to include the letters D and Y inside the triangles but it didn't look too good and made me discard this sample.
 
 - ### Sample 3: 
 When it comes to having a familiar logo that has something to do with the name of the company itself, this logo is pretty much the letter [O] of Odyssey shown in a huge font size along with the brand name underneath. At first I thought of having Dyssey and have the [ O ] standing on top of it, but that could lead to misunderstandings of what the company is called.
 
 - ### Sample 4: 
-Waves,waves! they look amazing! but at the same time its too dull. I created the following samples after this one with those waves in mind which helped me quite a lot to reach something that I actually liked. In terms of feedback well, the people that I asked really liked it but said it's too dull and then they told me that I could add it somewhere else to make it look better and more complete.
+Waves look good but at the same time it looks a little too dull. I created the following samples after this one with those waves in mind which helped me quite a lot to reach something that I actually liked.
 
 - ### Sample 5: 
-As stated in Sample 4 I gathered all the feedback and made this sample, its a circle with the waves inside it. Why a circle? well, once I took another look at sample 3 with the O in separate as a whole logo it came to my mind, why not include 3 initials inside it? so the circle symbolize the O and then inside the letters D and Y. This sample was the favorite amongst the other ones. 
+As stated in Sample 4 I had those waves in mind for this sample, its a circle with the waves inside it. Why a circle? well, once I took another look at sample 3 with the O in separate as a whole logo it came to my mind, why not include 3 initials inside it? so the circle symbolize the O and then inside the letters D and Y. Basically what I tried doing with the triangles but it looks way better in a circle.
 
 - ### Sample 6: 
-I started thinking about colouring the logo when I started drawing the sketch of this sample, because I wanted my logo to have colours. And that is why I used one of the lines of the waves I used in Sample 4 and 5, and in the middle the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle. Which is good and made me feel more confident. I saved this sample as an SVG image and imported it to Adobe Illustrator.
+I started thinking about colouring the logo when I started drawing the sketch for this sample, because I wanted my logo to have colours. And that is why I used one of the lines of the waves I used in Sample 4 and 5, and in the middle the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle. Which is good and made me feel more confident about my project. I saved this sample as an SVG image and imported it to Adobe Illustrator.
 
-## Creating the Logo in Illustrator
+## Creating the Logo (Sample 6) in Illustrator
 After choosing the right Sample previously made in Adobe XD, I then saved the file as an svg image to edit it in Illustrator.
 First thing I did was to hold shift and created the shape of a circle. In a purple tone.
 
@@ -75,13 +75,13 @@ And then I added the letters D and Y inside the circle. As a matter of design I 
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_3.png?raw=true">
 </p>
 
-After having the logo in position with everything needed inside it. I then wrote the name of the company underneath it. Using the font __Anders__ as previously stated with a size of 49. I decided to highlight the initial letters ODY due to having them displayed in the logo itself. It looks good in terms of design. Underneath the words Odyssey I added Digital Design because I want people to see what the company is all about. Then again I used the same font with size 11.
+After having the logo in position with everything needed inside it. I then wrote the name of the company underneath it. Using the font __Anders__ as previously shown, size 49. I decided to highlight the initial letters ODY due to having them displayed in the logo itself. It looks good in terms of design. Underneath the words Odyssey I added Digital Design because I want people to see what the company is about. For this I use the font __Aven Bold__,size 11.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_4.png?raw=true">
 </p>
 
-To finalize it I felt like I could add something more underneath the words Odyssey to not let the Digital Design become too dull. For this I thought of 2 options. One of them was to draw a line from the O till the second S until it reached the words Digital Design, and the other idea was to also draw a line but with Digital Design being in the center.
+To wrap it up, I wanted to add something else underneath the words Odyssey to not let the Digital Design part too empty. For this I thought of 2 options. One of them was to draw a line from the O till the second S until it reached the words Digital Design, and the other idea was to also draw a line but with Digital Design being in the center.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_5.png?raw=true">
@@ -92,19 +92,23 @@ Digital Design displayed in the center:
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_6.png?raw=true">
 </p>
-
+<p>
+Upon those 2 options I decided to include them both in the final output.
+<p>
 Once the logo was created and all set up, I can now finally start testing out different shades of colouring.
 
-<p align="center">
-Black image in white canvas:
+<p>
+When I was creating the logo in fully black I decided to not include the wave inside the circle and just add the letters. In reality there is no D and Y because I cropped those to include them in the circle otherwise using the colour white is not an option and wouldnt work. 
+<p>
+Black Logo on a white canvas:
   <p>
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/black_logo_bg.png?raw=true">
 </p>
-
-To start deciding on which colours I should use, I went to the website colourpallettes (https://colorpalettes.net/) and started looking for 2 warm colors that match each other to try them out on my logo.
-
+<p>
+To start deciding on which colours I should use, I went to the website colourpallettes (colorpalettes, “Color Palette Ideas | ColorPalettes.Net”) and started looking for 2 warm colors that match each other to try them out on my logo.
+<p>
 <p align="center">
 Warm Colors:
 </p>
@@ -118,16 +122,17 @@ Cooler Colors:
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/colour_palettes_cool.png?raw=true">
 </p>
-I decided to choose 4 colours for the main logo that can be used for different occasions. they will be the official and final outputs of my design in which I'll showcase it in my portfolio.
+<p>
+I decided to choose 4 colours for the main logo that can be used for different occasions. (Shades of dull pink with green #4071, Bright Blue and Gray #4138, Shades of gray #4194, brown and light gray #4093) they will be the official and final outputs for my design in which I'll showcase it in my portfolio.
+<p>
 To display my work in Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
-I'm using Photoshop over InDesign because I am more familiar with it.
 <p>
   
 ## First Image Output
 
 <p>
-For the first image I will leave it simple with having the logo displayed along the background. I'm using the function "Drop Shadow" to create shadows that distinguish the logo and make it more noticeable.
-For the background I did some testing with textures and line patterns but instead I decided to draw a line and turn the shape into a wave and place it in the middle to make an effect similar to what the logo has. The idea is to connect each page with each other.
+For the first image I will leave it simple with having the logo displayed with the background. I'm using the function "Drop Shadow" to create shadows that distinguish the logo and make it more noticeable.
+For the background I did some testing with textures and line patterns but instead I decided to draw a line and turn the shape into a wave and place it in the middle to make an effect similar to what the circle in the logo has. The idea is to connect all pages.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image1.jpg?raw=true">
@@ -136,7 +141,7 @@ For the background I did some testing with textures and line patterns but instea
 ## Second Image Output
 
 <p>
-In the second image I will show the slogan made for the brand. This slogan was initially made for the landing page but since i liked how it sounded I used it for this page and I think it fits well with the rest of the project. I wanted both pages to connect with each other, to archieve that I made a similar line transformed into a wave and filled it with the colour white and decreased the opacity to 2%.
+In the second image I will show the slogan made for the brand. This slogan was initially made for the landing page but since i liked how it sounded I used it for this page and I think it fits well with the rest of the project. I wanted both pages to connect with each other, for that I made a similar line transformed into a wave and filled it with the colour white and decreased the opacity to 2%.
 
 
 <p align="center">
@@ -149,7 +154,7 @@ In the second image I will show the slogan made for the brand. This slogan was i
 
 <p>
 
-I chose the typography image to be in the third image. This image is very straightforward. It has the name of both fonts used and examples of how they look when used. Instead of inserting another line transformed into a wave I made a different shape and put it on the right side of the image to connect it with the previous one. (Visual Identity Style Guide 1/4)
+I chose the typography image to be in the third image. This image is very straightforward. It has the name of both fonts used and examples of how they look when used. Instead of inserting another line transformed into a wave I made a different shape and put it on the right side of the image to connect it with the previous one. All the other images will have this shape except for the 3 last ones. (Visual Identity Style Guide 1/4)
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image3.jpg?raw=true">
@@ -172,7 +177,7 @@ This image shows the 4 official colours made for the company and also the 2 poss
 
 <p>
 
-This image shows what to avoid when using the logo. Above of the 3 examples of what you should not do, we can see the right way to use the logo. I decided to put that in there since the logo has 2 different design choices. (Visual Identity Style Guide 3/4)
+This image shows 3 examples of what you should NOT do with the logo. I have also included the right usage of the logo in which there is 2 design outputs and 4 colours as shown in the image before this one. (Visual Identity Style Guide 3/4)
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image5.jpg?raw=true">
@@ -194,7 +199,7 @@ In this image I show the clear space of the logo. This is approximately 20% of t
 
 <p>
 
-For this image I put the black version of the logo on a white canvas with the normal logo on the right.
+For this image I insert the black only logo on a white canvas to showcase how the logo in fully black looks on a white sheet. On the right side I also added the normal logo to show the difference between them.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image7.jpg?raw=true">
@@ -254,6 +259,11 @@ Airey, David. “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Lov
 <p>
 www.logodesignlove.com/yukio-ota-locos.
 <p>
+colorpalettes. “Color Palette Ideas | ColorPalettes.net.” Color Palette Ideas, 2020, 
+<p>
+www.colorpalettes.net/.
+<p>
+
   
 __Typography:__
 
@@ -266,8 +276,6 @@ Behance. “Anders (Free Font).” Behance, 11 Oct. 2014,
 <p>
 www.behance.net/gallery/18068463/Anders-%28Free-Font%29
 <p>
-
-
 
 __Pictures used:__
 <p>

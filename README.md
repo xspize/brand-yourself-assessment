@@ -293,8 +293,7 @@ Behance profile: https://www.behance.net/spizeit
 ## Video Presentation
 
 [![](https://github.com/xspize/brand-yourself-assessment/blob/main/pictures/video_preview.jpg?raw=true)](https://youtu.be/SsWmG44GBA4)
-  <p>
-  [Direct Link to video](https://youtu.be/SsWmG44GBA4)
+[Direct Link to video](https://youtu.be/SsWmG44GBA4)
    
 <br />
 

@@ -9,7 +9,8 @@ When it comes to researching for ideas to create a logo, there is a whole lot of
 A lot of brainstorming was necessary to find a fitting name for a Digital Design company. That was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__, honestly, as a designer, we always wander through our thoughts to expand our ideas to satisfy our customers, the word itself is very memorable and usually associated with going on adventures, which can also be one of the slogans for the company. 
 
 After thinking of a name for the company, I got ideas from (Airey, “The Logo Design Idea Book, by Steven Heller and Gail Anderson”) and (Airey, “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love”) to  give me an insight of various types of shapes I could go for.
-I started creating various sketches with a notebook using some of the shapes I found on that website.
+I started creating various sketches with a notebook using some of the shapes I found on those websites.
+<p>
 
 
 ![](https://github.com/xspize/xspize/blob/main/pictures/sketches_photo.png?raw=true)

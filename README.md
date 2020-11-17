@@ -289,7 +289,10 @@ I am using a content spacing of 0px to make all the images connect.
 <p>
 Behance profile: https://www.behance.net/spizeit
 <p>
-  
+
+## Youtube video
+
+[![](https://github.com/xspize/brand-yourself-assessment/blob/main/pictures/video_preview.jpg?raw=true)](https://youtu.be/SsWmG44GBA4)
   <p>
    
 <br />

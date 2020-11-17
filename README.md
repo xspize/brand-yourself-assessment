@@ -19,16 +19,8 @@ Since the name of the company will be Odyssey I wanted the logo to have somethin
 
 I used Adobe XD to transform those sketches into real designs using the pen tool.
 
-## Choosing the right logo
-<p>
-<p>
-   
-<br />
-<p>
-<p>
-   
-<br />
-<p>
+## Samples made in Adobe XD
+
 <p>
    
 <br />

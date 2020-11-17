@@ -59,16 +59,6 @@ I started thinking about colouring the logo when I started drawing the sketch fo
    
 <br />
 
-## Typography
-I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. (Behance)
-And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ made by Doubletwo studios. (doubletwo)
-Both of those fonts can be used for both professional and personal.
-I made the decision of using those fonts before I started working in Adobe XD. I wanted to make sure I found the right fonts to work with before starting anything else.
-
-<p align="center">
-  <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">
-</p>
-
 ## Creating the Logo (Sample 6) in Illustrator
 After choosing the right Sample previously made in Adobe XD, I then saved the file as an svg image to edit it in Illustrator.
 The first thing I did was to hold shift and created the shape of a circle. In a purple tone.
@@ -109,6 +99,18 @@ Digital Design displayed in the center:
 <p>
 Upon those 2 options, I decided to include them both in the final output.
 <p>
+   
+## Typography
+I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. (Behance)
+And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ made by Doubletwo studios. (doubletwo)
+Both of those fonts can be used for both professional and personal.
+I made the decision of using those fonts before I started working in Adobe XD. I wanted to make sure I found the right fonts to work with before starting anything else.
+
+<p align="center">
+  <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">
+</p>
+   
+ <p>  
 Once the logo was created and all set up, I can now finally start testing out different shades of colouring.
 
 <p>

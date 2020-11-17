@@ -99,7 +99,7 @@ Digital Design displayed in the center:
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_6.png?raw=true">
 </p>
 <p>
-Upon those 2 options, I decided to include them both in the final output.
+I decided to include both of those options, have the words centered or after the line.
 <p>
    
 ## Typography

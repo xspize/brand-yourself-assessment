@@ -141,7 +141,9 @@ Warm colours:
 <p>
 After making 3 warm samples of the logo I then started looking for cooler colours to see which one fits the best.
 <p>
+<p align="center">
 Cooler colours:
+</p>
 </p>
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/colour_palettes_cool.png?raw=true">

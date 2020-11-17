@@ -86,6 +86,8 @@ After having the logo in position with everything needed inside it. I then wrote
 </p>
 
 To wrap it up, I wanted to add something else underneath the words Odyssey to not let the Digital Design part too empty. For this, I thought of 2 options. One of them was to draw a line from the O till the second S until it reached the words Digital Design, and the other idea was to also draw a line but with Digital Design being in the center.
+<p>
+Digital Design displayed after the line:
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_5.png?raw=true">

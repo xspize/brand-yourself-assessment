@@ -158,7 +158,7 @@ To export my work to Behance I will be using Photoshop with artboards to have al
   <p>
   
 
-## First Image Output
+- ### First Image Output
 
 <p>
 For the first image, I will leave it simple by having the logo displayed with the background. I'm using the function "Drop Shadow" to create shadows that distinguish the logo and make it more noticeable.
@@ -168,7 +168,7 @@ For the background, I did some testing with textures and line patterns but inste
   <img src="https://github.com/xspize/xspize/blob/main/pictures/image1.jpg?raw=true">
 <p>
   
-## Second Image Output
+- ### Second Image Output
 
 <p>
 In the second image, I will show the slogan made for the brand. This slogan was initially made for the landing page but since I liked how it sounded I used it for this page and I think it fits well with the rest of the project. I wanted both pages to connect, for that, I made a similar line transformed into a wave and filled it with the colour white,  and decreased the opacity to 2%.
@@ -180,7 +180,7 @@ In the second image, I will show the slogan made for the brand. This slogan was 
 
 <p>
   
-## Third Image Output
+- ### Third Image Output
 
 <p>
 
@@ -192,7 +192,7 @@ I chose the typography image to be in the third image. This image is very straig
 
 <p>
   
-## Fourth Image Output
+- ### Fourth Image Output
 
 <p>
 
@@ -203,7 +203,7 @@ This image shows the 4 official colours made for the company and also the 2 poss
 </p>
 <p>
   
-## Fifth Image Output
+- ### Fifth Image Output
 
 <p>
 
@@ -214,7 +214,7 @@ This image shows 3 examples of what you should NOT do with the logo. I have also
 </p>
 <p>
   
-## Sixth Image Output
+- ### Sixth Image Output
 
 <p>
 
@@ -225,7 +225,7 @@ In this image, I show the clear space of the logo. This is approximately 20% of 
 </p>
 <p>
   
-## Seventh Image Output
+- ### Seventh Image Output
 
 <p>
 
@@ -237,7 +237,7 @@ For this image, I insert the black only logo on a white canvas to showcase how t
 
 <p>
   
-## Eighth Image Output
+- ### Eighth Image Output
 
 <p>
 
@@ -247,7 +247,7 @@ For this page, I use once again the black version of the logo on a white A4 mock
 </p>
 <p>
   
-## Ninth Image Output
+- ### Ninth Image Output
 
 <p>
 
@@ -258,7 +258,7 @@ This page shows the business cards made for the company. I decided to use the wa
 
 <p>
   
-## Tenth Image Output
+- ### Tenth Image Output
 
 <p>
 
@@ -269,7 +269,7 @@ I used a mockup MacBook (“Free MacBook Pro Mockup - Mockups Design | Free Prem
 
 <p>
   
-## Eleventh Image Output
+- ### Eleventh Image Output
 
 <p>
 For the final image, I use a mockup made by (“Free IPhone 11 Pro Mockup - Mockups Design | Free Premium Mockups”) in which I only show the logo with a mirrored effect.

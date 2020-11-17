@@ -1,5 +1,4 @@
 ## Digital Creativity Assessment
-
 A brand needs to have its own identity, be recognizable just from a glance. To use those concepts I started by following important steps until I reach what I intended.
 
 ## Research

@@ -149,14 +149,14 @@ Cooler colours:
 <p>
 I decided to choose 4 colours for the main logo that can be used for different occasions. (Shades of dull Pink with Green #4071, Bright Blue and Gray #4138, Shades of Gray #4194, Brown and Light Gray #4093) they will be the official and final outputs for my design in which I'll showcase in my portfolio.
 <p>
-To display my work in Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
+   
+## Creating final outputs
+<p>
+
+To export my work to Behance I will be using Photoshop with artboards to have all pages in one document to make it easier to organize everything.
 <p>
   <p>
-   
-<br />
-<p>
-    
-<br />
+  
 
 ## First Image Output
 

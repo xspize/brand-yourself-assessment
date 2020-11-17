@@ -65,9 +65,6 @@ This sample is one of my favorites. I tried to include the letters D and Y insid
 When it comes to having a familiar logo that has something to do with the name of the company itself, this logo is pretty much the letter [O] of Odyssey shown in a huge font size along with the brand name underneath. At first, I thought of having Dyssey and have the [ O ] standing on top of it, but that could lead to misunderstandings of what the company is called.
 
 <p>
-<p>
-   
-<br />
 
 ### Sample 4: 
 Waves look good but, it looks a little too dull. I created the following samples after this one with those waves in mind which helped me quite a lot to reach something that I liked.

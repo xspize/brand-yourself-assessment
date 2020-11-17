@@ -113,6 +113,9 @@ I made the decision of using those fonts before I started working in Adobe XD. I
 </p>
    
  <p>  
+  
+## Colour Testing
+
 Once the logo was created and all set up, I can now finally start testing out different shades of colouring.
 
 <p>

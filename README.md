@@ -14,9 +14,9 @@ I then started creating sketches on a notebook, using those websites to give me 
 
 ![](https://github.com/xspize/xspize/blob/main/pictures/sketches_photo.png?raw=true)
 
-The name of the company being Odyssey, I wanted the logo to have something to do with going on an adventure, that is why I made some boats as a sketch.
+The name of the company being Odyssey, I wanted the logo to have something to do with going on an adventure, which is why I made a few boats as a sketch.
 
-I used Adobe XD to transform those sketches into real designs using the pen tool.
+I used Adobe XD to convert those sketches into real designs using the pen tool.
 
 ## Samples made in Adobe XD
 
@@ -35,13 +35,13 @@ I used Adobe XD to transform those sketches into real designs using the pen tool
   
   
 - ### Sample 1: 
-The shape of the boat does not look quite right but in general, I like the idea of having a boat, it makes sense to have a boat as a logo of a company called Odyssey but it doesn't look very professional. I could adjust it to make it look better, but compared to the other samples I took upon the decision of discarding this sample.
+The shape of the boat does not look quite right, but I like the idea of having a boat, it makes sense to have a boat as a logo of a company called Odyssey but it doesn't look very professional. I can adjust it to make it look better, but compared to other samples, I decided to discard this sample. 
 
 - ### Sample 2: 
 This sample is one of my favorites. I tried to include the letters D and Y inside the triangles but it didn't look too good and made me discard this sample.
 
 - ### Sample 3: 
-When it comes to having a familiar logo that has something to do with the name of the company itself, this logo is pretty much the letter [O] of Odyssey shown in a huge font size along with the brand name underneath. At first, I thought of having Dyssey and have the [ O ] standing on top of it, but that could lead to misunderstandings of what the company is called.
+When it comes to having a familiar logo that has something to do with the name of the company itself, this logo is pretty much the letter [O] of Odyssey in a huge font size along with the brand name underneath. At first, I thought of having Dyssey and have the [ O ] standing on top of it, but that could lead to misunderstandings of what the company is.
 
 <p>
 
@@ -49,7 +49,7 @@ When it comes to having a familiar logo that has something to do with the name o
 Waves look good but, it looks a little too dull. I created the following samples after this one with those waves in mind which helped me quite a lot to reach something that I liked.
 
 - ### Sample 5: 
-As stated in Sample 4 I had those waves in mind for this sample, it's a circle with the waves inside it. Why a circle? well, once I took another look at sample 3 with the O in separate as a whole logo it came to my mind, why not include 3 initials inside it? so the circle symbolize the O and then inside the letters D and Y. Basically what I tried doing with the triangles but it looks way better in a circle.
+As stated in Sample 4 I had those waves in mind for this sample, it's a circle with the waves inside it. Why a circle? well, once I took another look at sample 3 with the letter O separated from the rest, as a whole logo, the following came to my mind, why not include 3 initials inside it? so the circle is supposedly the O and then inside the letters D and Y. Basically making the words ODY.
 
 - ### Sample 6: 
 I started thinking about colouring the logo when I started drawing the sketch for this sample, because I wanted my logo to have colours. And that is why I used one of the lines of the waves I used in Sample 4 and 5. And in the middle the letters D and Y. That leaves me with a lot of possibilities to colour each side of the circle. Which is good and made me feel more confident about my project. I saved this sample as an SVG image and imported it to Adobe Illustrator.

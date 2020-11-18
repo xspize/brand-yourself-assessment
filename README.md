@@ -102,10 +102,10 @@ I decided to include both of those options, have the words centered or after the
 <p>
    
 ## Typography
-I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. (Behance)
-And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ made by Doubletwo studios. (doubletwo)
+While I was drawing the shapes of the sketches into adobe XD, I started looking for fonts because I wanted to make sure I found the right fonts to work with before starting anything else.
+I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. Truetype Outlines (Behance)
+And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ Bold, made by Doubletwo studios. (doubletwo)
 Both of those fonts can be used for both professional and personal use.
-I made the decision of using those fonts before I started working in Adobe XD. I wanted to make sure I found the right fonts to work with before starting anything else.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">
@@ -138,7 +138,7 @@ Warm colours:
 
 <p align="center">
 <p>
-After making 3 warm samples of the logo I then started looking for cooler colours to see which one fits the best.
+After making 3 warm samples of the logo I then started looking for cooler colours to see more options.
 <p>
 <p align="center">
 Cooler colours:

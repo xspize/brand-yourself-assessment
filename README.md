@@ -8,13 +8,13 @@ When it comes to researching for ideas to create a logo, there is a whole lot of
 My initial thought was to use my first and last name to promote myself instead of a company, that was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__,  as a digital designer, we wander through our thoughts to expand our ideas to satisfy our customer needs. The word Odyssey is very memorable and usually associated with going on adventures, which can also be one of the slogans for the company. 
 
 After thinking of a name for the company, I got ideas from (Airey, “The Logo Design Idea Book, by Steven Heller and Gail Anderson”), (Airey, “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love”) and (Airey, “Jordan Peterson Explains the Yin Yang Symbol | Logo Design Love”) to  give me an insight of various types of shapes I could use.
-I started creating various sketches with a notebook using some of the shapes I found on those websites.
+I then started creating sketches on a notebook, using those websites to give me inspiration.
 <p>
 
 
 ![](https://github.com/xspize/xspize/blob/main/pictures/sketches_photo.png?raw=true)
 
-Since the name of the company is Odyssey I want the logo to have something to do with going on an adventure, traveling of some kind, but not much to not cause misunderstandings of what the company is.
+The name of the company being Odyssey, I wanted the logo to have something to do with going on an adventure, that is why I made some boats as a sketch.
 
 I used Adobe XD to transform those sketches into real designs using the pen tool.
 
@@ -78,7 +78,7 @@ And then I added the letters D and Y inside the circle. As a matter of design I 
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_3.png?raw=true">
 </p>
 
-After having the logo in position with everything needed inside it. I then wrote the name of the company underneath it. Using the font __Anders__ as previously shown, size 49. I decided to highlight the initial letters ODY due to having them displayed in the logo itself. It looks good in terms of design. Underneath the words Odyssey I added Digital Design because I want people to see what the company is about. For this I use the font __Aven Bold__, size 11.
+After having the logo in position with everything needed inside it. I then wrote the name of the company underneath it. Using the font __Anders__ size 49. I decided to highlight the initial letters ODY due to having them displayed in the logo itself. It looks good in terms of design. Underneath the words Odyssey I added Digital Design because I want people to see what the company is about. For this I use the font __Aven Bold__, size 11.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_4.png?raw=true">
@@ -104,7 +104,7 @@ I decided to include both of those options, have the words centered or after the
 ## Typography
 I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. (Behance)
 And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ made by Doubletwo studios. (doubletwo)
-Both of those fonts can be used for both professional and personal.
+Both of those fonts can be used for both professional and personal use.
 I made the decision of using those fonts before I started working in Adobe XD. I wanted to make sure I found the right fonts to work with before starting anything else.
 
 <p align="center">

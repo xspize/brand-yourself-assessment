@@ -60,13 +60,13 @@ I started thinking about colouring the logo when I started drawing the sketch fo
 
 ## Creating the Logo (Sample 6) in Illustrator
 After choosing the right Sample previously made in Adobe XD, I then saved the file as an svg image to edit it in Illustrator.
-The first thing I did was to hold shift and created the shape of a circle with a gray tone.
+The first thing I did was to hold shift and created the shape of a circle with a gray/blue tone.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_1.png?raw=true">
 </p>
 
-Afterwards with the pen tool, I created a shape to simulate a wave that went across the middle of the circle. I managed to do this by subtracting the layer. I chose a darker colour to contrast the gray tone, I will later on, test more colours but for now, I'm creating the initial shape for the actual logo.
+Afterwards with the pen tool, I created a shape to simulate a wave that went across the middle of the circle. I managed to do this by subtracting the layer. I chose a darker colour to contrast the color on the left, I will later on, test more colours but for now, I'm creating the initial shape for the actual logo.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_2.png?raw=true">

@@ -3,18 +3,18 @@ A brand needs to have its own identity, be recognizable just from a glance. To u
 
 ## Research
 
-When it comes to researching for ideas to create a logo, there is a whole lot of countless brands to take inspiration from. What I am aiming for is to assimilate a name to an image/shape that is memorable to the user. Some companies already perfectly do these. Let's take **Twitter** as an example, **Twitter** is often associated with a bird, why? because of its very recognizable logo. If one day they decided to change it, users would get very confused since the bird is the company identity.
+When it comes to researching for ideas to create a logo, there is a whole lot of countless brands to take inspiration from. What I am aiming for is to assimilate a name to an image/shape that is memorable to the user. Some companies already perfectly do these. Let's take **Twitter** as an example, **Twitter** is often associated with a bird, why? because of its very recognizable logo. If one day they decided to change it, users would get very confused because the bird is the company identity.
 
-A lot of brainstorming was necessary to find a fitting name for a Digital Design company. That was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__, honestly, as a designer, we always wander through our thoughts to expand our ideas to satisfy our customers, the word itself is very memorable and usually associated with going on adventures, which can also be one of the slogans for the company. 
+A lot of brainstorming was necessary to find a fitting name for a Digital Design company. That was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__,  as a digital designer, we always wander through our thoughts to expand our ideas to satisfy our customer needs. The word Odyssey is very memorable and usually associated with going on adventures, which can also be one of the slogans for the company. 
 
-After thinking of a name for the company, I got ideas from (Airey, “The Logo Design Idea Book, by Steven Heller and Gail Anderson”) and (Airey, “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love”) to  give me an insight of various types of shapes I could go for.
+After thinking of a name for the company, I got ideas from (Airey, “The Logo Design Idea Book, by Steven Heller and Gail Anderson”) and (Airey, “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love”) to  give me an insight of various types of shapes I could use.
 I started creating various sketches with a notebook using some of the shapes I found on those websites.
 <p>
 
 
 ![](https://github.com/xspize/xspize/blob/main/pictures/sketches_photo.png?raw=true)
 
-Since the name of the company will be Odyssey I wanted the logo to have something to do with going on an adventure, traveling of some kind, but not too much because this is supposed to be a digital designer company, not a travel agency.
+Since the name of the company is Odyssey I want the logo to have something to do with going on an adventure, traveling of some kind, but not much to not cause misunderstandings of what the company is.
 
 I used Adobe XD to transform those sketches into real designs using the pen tool.
 

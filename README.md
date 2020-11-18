@@ -5,9 +5,9 @@ A brand needs to have its own identity, be recognizable just from a glance. To u
 
 When it comes to researching for ideas to create a logo, there is a whole lot of countless brands to take inspiration from. What I am aiming for is to assimilate a name to an image/shape that is memorable to the user. Some companies already perfectly do these. Let's take **Twitter** as an example, **Twitter** is often associated with a bird, why? because of its very recognizable logo. If one day they decided to change it, users would get very confused because the bird is the company identity.
 
-A lot of brainstorming was necessary to find a fitting name for a Digital Design company. That was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__,  as a digital designer, we always wander through our thoughts to expand our ideas to satisfy our customer needs. The word Odyssey is very memorable and usually associated with going on adventures, which can also be one of the slogans for the company. 
+My initial thought was to use my first and last name to promote myself instead of a company, that was until I associated what exactly a digital designer is with an already existent word. And that being __Odyssey__,  as a digital designer, we wander through our thoughts to expand our ideas to satisfy our customer needs. The word Odyssey is very memorable and usually associated with going on adventures, which can also be one of the slogans for the company. 
 
-After thinking of a name for the company, I got ideas from (Airey, “The Logo Design Idea Book, by Steven Heller and Gail Anderson”) and (Airey, “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love”) to  give me an insight of various types of shapes I could use.
+After thinking of a name for the company, I got ideas from (Airey, “The Logo Design Idea Book, by Steven Heller and Gail Anderson”), (Airey, “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love”) and (Airey, “Jordan Peterson Explains the Yin Yang Symbol | Logo Design Love”) to  give me an insight of various types of shapes I could use.
 I started creating various sketches with a notebook using some of the shapes I found on those websites.
 <p>
 
@@ -306,6 +306,10 @@ www.logodesignlove.com/the-logo-design-idea-book.
 Airey, David. “LoCoS Visual Language, by Professor Yukio Ota | Logo Design Love.” Logo Design Love, 28 July 2020,
 <p>
 www.logodesignlove.com/yukio-ota-locos.
+<p>
+Airey, David. “Jordan Peterson Explains the Yin Yang Symbol | Logo Design Love.” Logo Design Love, 4 Mar. 2020,
+<p>
+www.logodesignlove.com/yin-yang-symbol.
 <p>
 colorpalettes. “Color Palette Ideas | ColorPalettes.net.” Color Palette Ideas, 2020, 
 <p>

@@ -60,13 +60,13 @@ I started thinking about colouring the logo when I started drawing the sketch fo
 
 ## Creating the Logo (Sample 6) in Illustrator
 After choosing the right Sample previously made in Adobe XD, I then saved the file as an svg image to edit it in Illustrator.
-The first thing I did was to hold shift and created the shape of a circle. In a purple tone.
+The first thing I did was to hold shift and created the shape of a circle with a gray tone.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_1.png?raw=true">
 </p>
 
-Afterwards with the pen tool, I created a shape to simulate a wave that went across the middle of the circle. I managed to do this by subtracting the layer. I chose a darker colour to contrast the purple tone, I will later on, test more colours but for now, I'm creating the initial shape for the actual logo.
+Afterwards with the pen tool, I created a shape to simulate a wave that went across the middle of the circle. I managed to do this by subtracting the layer. I chose a darker colour to contrast the gray tone, I will later on, test more colours but for now, I'm creating the initial shape for the actual logo.
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/step_2.png?raw=true">
@@ -102,13 +102,10 @@ I decided to include both of those options, have the words centered or after the
 <p>
    
 ## Typography
-While I was drawing the shapes of the sketches into adobe XD, I started looking for fonts because I wanted to make sure I found the right fonts to work with before starting anything else.
-<p>
-I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. Truetype Outlines (Behance)
-<p>
-And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ Bold, made by Doubletwo studios. (doubletwo)
-<p>
-Both of those fonts can be used for both professional and personal use.
+While I was drawing the shapes of the sketches into adobe XD, I started looking for fonts because I wanted to make sure I found the right fonts to work with before starting anything else.<br/>
+I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. Truetype Outlines (Behance)<br/>
+And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ Bold, made by Doubletwo studios. (doubletwo)<br/>
+Both of those fonts can be used for both professional and personal use.<br/>
 
 <p align="center">
   <img src="https://github.com/xspize/xspize/blob/main/pictures/typography.png?raw=true">

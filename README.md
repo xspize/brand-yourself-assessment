@@ -103,8 +103,11 @@ I decided to include both of those options, have the words centered or after the
    
 ## Typography
 While I was drawing the shapes of the sketches into adobe XD, I started looking for fonts because I wanted to make sure I found the right fonts to work with before starting anything else.
+<p>
 I am using two different fonts for the logo. for ODYSSEY I use a free font made by Tom Anders called __Anders__. Truetype Outlines (Behance)
+<p>
 And for "DIGITAL DESIGN" which are the words underneath ODYSSEY I use a free font called __XXII Aven__ Bold, made by Doubletwo studios. (doubletwo)
+<p>
 Both of those fonts can be used for both professional and personal use.
 
 <p align="center">
